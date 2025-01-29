@@ -5,14 +5,14 @@ const StyledLogo = styled.div`
 `;
 
 const Img = styled.img`
-  height: 9.6rem;
-  width: auto;
+  height: 80;
+  width: 80;
 `;
 
 function Logo() {
   return (
     <StyledLogo>
-      <Img src="/logo-light.png" alt="Logo" />
+      <Img src="/woodcrest5.png" alt="Logo" />
     </StyledLogo>
   );
 }
