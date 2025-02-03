@@ -2,17 +2,13 @@
 
   <img src="./public/woodcrest5.png" alt="logo" width="90" height="auto">
 
-  <h1>The Wild Oasis - Admin</h1>
+  <h1>WoodCrest Hotels - Admin</h1>
 
   <h3>
     <a href="https://wood-crest.vercel.app/">
       <strong>Live Site</strong>
     </a>
   </h3>
-
-  <div align="center">
-    <a href="https://wood-crest.vercel.app/login">View website</a>
-  </div>
 
   <hr>
 
@@ -24,10 +20,6 @@
 <p align="center">
 Welcome to <b>WoodCrest Hotels</b>! This is a hotel management web app, where hotel employees can manage cabins, bookings, and guests. It uses Supabase as the backend and implements advanced React techniques such as React Query.
 </p>
-
-## Live Site
-
-Check out the live admin app here: [The Wild Oasis - Admin](https://wood-crest.vercel.app/)
 
 ## Key Features
 
